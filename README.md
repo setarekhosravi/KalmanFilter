@@ -1,2 +1,2 @@
 # KalmanFilter
-Implement Kalman Filter in Python.
+An Implementation of Kalman Filter in Python, Useful for Object Tracking (SOT and MOT)
